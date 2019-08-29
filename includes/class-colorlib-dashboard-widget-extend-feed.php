@@ -51,13 +51,13 @@ if ( ! class_exists( 'Colorlib_Dashboard_Widget_Extend_Feed' ) ) {
 			// Build the feed sources.
 			$all_feed_urls = $this->get_feed_urls( $url );
 
-			// Update the feed sources.
+			
 			$feed->set_feed_url( $all_feed_urls );
 		}
 
 		public function get_feed_urls( $url ) {
 
-			// Initialize the feeds array.
+			
 			$feed_urls = array( $url );
 
 			$check = get_transient( 'colorlib_dashboard_feed' );
