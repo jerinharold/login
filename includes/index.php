@@ -3,4 +3,4 @@
 // Silence is golden
 
 
-//Necessary to store keys secure somewhere
+//Use PHPMailer to integrate with Gmail. 
