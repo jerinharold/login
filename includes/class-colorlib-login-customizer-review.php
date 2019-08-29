@@ -1,7 +1,7 @@
 <?php
 
 class CLC_Review {
-
+    //todo: update link after deployment
 	private static $instance;
 	private $when = array( 5, 15, 30 );
 	private $value;

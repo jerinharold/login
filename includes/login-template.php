@@ -3,7 +3,7 @@
  * Template Name: Colorlib Login Customizer Template
  *
  * Template to display the WordPress login form in the Customizer.
- * This is essentially a stripped down version of wp-login.php, though not accessible from outside the Customizer.
+
  *
  */
 

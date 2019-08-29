@@ -31,7 +31,7 @@ class Colorlib_Login_Customizer_Autoloader {
 				COLORLIB_LOGIN_CUSTOMIZER_BASE . '/includes/lib',
 				COLORLIB_LOGIN_CUSTOMIZER_BASE . '/includes/lib/controls',
 			);
-
+			//does this really matter ?
 			foreach ( $directories as $directory ) {
 				if ( file_exists( $directory . '/class-' . strtolower( $bind ) . '.php' ) ) {
 					require_once $directory . '/class-' . strtolower( $bind ) . '.php';

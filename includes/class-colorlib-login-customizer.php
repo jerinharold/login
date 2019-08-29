@@ -340,7 +340,7 @@ class Colorlib_Login_Customizer {
 			/**
              * Lost Password
              */
-			'lostpassword-username-label' => 'Username or Email Address',
+			'lostpassword-username-label' => 'Username or Email Address blah blah',
 			'lostpassword-button-label'   => 'Get New Password',
 			/**
 			 * Others section ( misc )
