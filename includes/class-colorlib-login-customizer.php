@@ -2,7 +2,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 };
-
+//ssssssss
 class Colorlib_Login_Customizer {
 
 	/**
